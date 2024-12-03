@@ -1,0 +1,19 @@
+{
+  "name": "gpt-cli",
+  "version": "1.0.0",
+  "description": "prompt chatgpt from terminal!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazeray/gpt-cli.git"
+  },
+  "author": "laze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazeray/gpt-cli/issues"
+  },
+  "homepage": "https://github.com/lazeray/gpt-cli#readme"
+}
